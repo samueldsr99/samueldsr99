@@ -1,1 +1,25 @@
-site_name: My Docs
+site_name: "samueldsr99"
+site_url: https://samueldsr99.github.io/samueldsr99/
+repo_url: https://github.com/samueldsr99/
+
+theme:
+  name: material
+
+  palette:
+    scheme: slate
+    primary: red
+    accent: pink
+  features:
+    - navigation.tabs
+    - navigation.instant
+
+nav:
+  - Home: index.md
+  - Resume: resume.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/samueldsr99
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/samueldsr8
