@@ -6,6 +6,9 @@
 - (Vim | Neovim)'er
 - Working on AutoML Thesis project.
 
+> "Coding is to programming as typing is to writing"
+
+
 ### Web stack
 
 - `TS`
