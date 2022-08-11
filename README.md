@@ -8,14 +8,7 @@
 
 > "Coding is to programming as typing is to writing"
 
-
-### Web stack
-
-- `TS`
-- `React / Nextjs`
-- `Tailwindcss`
-- `Expressjs`
-- `Postgresql | MySql | Mongoose`
+> "Programming languages are just tools" a.k.a: the PHP developer.
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samueldsr99&theme=dark" />
 
