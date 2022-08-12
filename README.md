@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Code artisan.
+- Code craftsman.
 - 💻 Bullshit lover.
 - Wasting time automating tasks to save time.
 - (Vim | Neovim)'er
