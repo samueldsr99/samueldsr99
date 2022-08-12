@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- A person who writes computer programs.
+- Code artisan.
 - 💻 Bullshit lover.
 - Wasting time automating tasks to save time.
 - (Vim | Neovim)'er
