@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - Code craftsman.
-- 💻 Bullshit lover.
+- Static typer.
 - Wasting time automating tasks to save time.
 - (Vim | Neovim)'er
 - Working on AutoML Thesis project.
