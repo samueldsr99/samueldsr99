@@ -1,10 +1,10 @@
 ### Hi there 👋
 
+- Bachelor in CS.
 - Code craftsman.
 - Static typer.
 - Wasting time automating tasks to save time.
 - (Vim | Neovim)'er
-- Working on AutoML Thesis project.
 
 > "Coding is to programming as typing is to writing"
 
