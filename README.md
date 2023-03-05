@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Bachelor in CS.
+- Bsc. CS.
 - Code craftsman.
 - Static typer.
 - Wasting time automating tasks to save time.
