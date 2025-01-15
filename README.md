@@ -9,8 +9,6 @@
 
 > "Coding is to programming as typing is to writing"
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samueldsr99&theme=dark" />
-
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=samueldsr99&theme=dark&show_icons=true&count_private=true" /> -->
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=samueldsr99&theme=dark" />
 
