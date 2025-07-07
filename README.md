@@ -5,7 +5,6 @@ Human being 🚶‍♂️
 - Code craftsman.
 - Static typer.
 - Wasting time automating tasks to save time.
-- (Vim | Neovim)'er
 
 > "Coding is to programming as typing is to writing"
 
