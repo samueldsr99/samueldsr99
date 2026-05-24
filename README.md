@@ -8,6 +8,5 @@ Human being 🚶‍♂️
 
 > "Coding is to programming as typing is to writing"
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=samueldsr99&theme=dark&show_icons=true&count_private=true" />
 
 ![](https://leetcard.jacoblin.cool/samueldsr?ext=contest&theme=dark)
